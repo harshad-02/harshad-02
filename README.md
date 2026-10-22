@@ -86,7 +86,6 @@ Fourth-year Information Technology student at **I²IT Pune** (CGPA 9.65/10, expe
 
 - **CGPA: 9.65 / 10** — B.E. Information Technology, I²IT Pune (in progress, expected 2027)
 - **Active problem solver** — Consistent practice on LeetCode and competitive programming platforms, focused on algorithms and data structures relevant to efficient retrieval and search system design
-- **[PLACEHOLDER]** — Add verified hackathon results, open-source contributions, or recognitions here
 
 ---
 
@@ -102,8 +101,6 @@ Fourth-year Information Technology student at **I²IT Pune** (CGPA 9.65/10, expe
 
 </div>
 
-> *GitHub stats reflect public repository activity. LeetCode card powered by [leetcard.jacoblin.cool](https://leetcard.jacoblin.cool).*
-
 ---
 
 ## Connect
@@ -113,10 +110,10 @@ I am open to conversations about Generative AI engineering, RAG systems, LLM app
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-harshad--02-181717?style=for-the-badge&logo=github)](https://github.com/harshad-02)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshad-dudye/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Harshad__Dudye02-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Harshad_Dudye02/)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL_ADDRESS)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail)](mailto:harshadudye02@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge&logo=vercel)](https://portfolio-six-tau-c2wmz46j64.vercel.app/)
 
 </div>
 
