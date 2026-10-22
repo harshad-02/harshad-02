@@ -7,10 +7,10 @@
 *Building intelligent applications that go beyond the API call.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-harshad--02-181717?style=flat-square&logo=github)](https://github.com/harshad-02)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshad%20Dudye-0A66C2?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshad%20Dudye-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harshad-dudye/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Harshad__Dudye02-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Harshad_Dudye02/)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail)](mailto:YOUR_EMAIL_ADDRESS)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=flat-square&logo=vercel)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail)](mailto:harshadudye02@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=flat-square&logo=vercel)](https://portfolio-six-tau-c2wmz46j64.vercel.app/)
 
 </div>
 
