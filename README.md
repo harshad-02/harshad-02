@@ -6,8 +6,9 @@
 
 *Building intelligent applications that go beyond the API call.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-HarshadDudye-181717?style=flat-square&logo=github)](https://github.com/HarshadDudye)
+[![GitHub](https://img.shields.io/badge/GitHub-harshad--02-181717?style=flat-square&logo=github)](https://github.com/harshad-02)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshad%20Dudye-0A66C2?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Harshad__Dudye02-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Harshad_Dudye02/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail)](mailto:YOUR_EMAIL_ADDRESS)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=flat-square&logo=vercel)](YOUR_PORTFOLIO_URL)
 
@@ -17,13 +18,7 @@
 
 ## About Me
 
-I am a fourth-year Information Technology student at the **International Institute of Information Technology, Pune (I²IT)**, graduating in 2027, with a CGPA of **9.65 / 10**.
-
-I enjoy building things that work — from backend APIs and full-stack web applications to LLM-powered systems that are actually useful. My interest in software engineering runs alongside a growing focus on **Generative AI**: how language models can be embedded into real applications thoughtfully, with attention to retrieval quality, prompt structure, and output reliability.
-
-I write primarily in Python and JavaScript, think in systems, and care as much about how something is built as what it does.
-
-> Currently exploring RAG architectures, LLM evaluation, and agentic workflows — while continuing to sharpen my software engineering fundamentals.
+Fourth-year Information Technology student at **I²IT Pune** (CGPA 9.65/10, expected 2027), building full-stack web applications and LLM-powered systems. I focus on the engineering decisions that make AI applications reliable — retrieval quality, prompt structure, and output evaluation — not just the models themselves.
 
 ---
 
@@ -87,19 +82,6 @@ I write primarily in Python and JavaScript, think in systems, and care as much a
 
 ---
 
----
-
-## Currently Learning
-
-- **Advanced RAG patterns** — hybrid retrieval, reranking, multi-vector indexing
-- **LangChain & LangGraph** — building multi-step LLM chains and stateful agent workflows
-- **LLM Evaluation** — RAGAS framework, hallucination detection, response quality metrics
-- **Agentic AI** — tool-use patterns, planning loops, and multi-agent coordination
-- **Ollama** — local inference with open-source models (Llama, Mistral, Phi) for cost-effective development
-- **Production AI backends** — designing APIs that wrap LLMs reliably with error handling and observability
-
----
-
 ## Achievements
 
 - **CGPA: 9.65 / 10** — B.E. Information Technology, I²IT Pune (in progress, expected 2027)
@@ -112,13 +94,15 @@ I write primarily in Python and JavaScript, think in systems, and care as much a
 
 <div align="center">
 
-![Harshad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshadDudye&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Harshad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshad-02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshadDudye&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshad-02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Harshad_Dudye02?theme=dark&font=Nunito&ext=heatmap)
 
 </div>
 
-> *Stats reflect public repository activity. Replace `HarshadDudye` with your exact GitHub username if different.*
+> *GitHub stats reflect public repository activity. LeetCode card powered by [leetcard.jacoblin.cool](https://leetcard.jacoblin.cool).*
 
 ---
 
@@ -128,8 +112,9 @@ I am open to conversations about Generative AI engineering, RAG systems, LLM app
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-HarshadDudye-181717?style=for-the-badge&logo=github)](https://github.com/HarshadDudye)
+[![GitHub](https://img.shields.io/badge/GitHub-harshad--02-181717?style=for-the-badge&logo=github)](https://github.com/harshad-02)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Harshad__Dudye02-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Harshad_Dudye02/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL_ADDRESS)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO_URL)
 
